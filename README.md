@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matt
 - 👀 I’m interested in GML/Haxeflixel Code.
 - 🌱 I’m currently learning in High School.
-- 💞️ I’m looking to collaborate on people!
+- 💞️ I’m looking to collaborate with people!
 - 📫 <--- This is a mailbox...
 
 <!---
